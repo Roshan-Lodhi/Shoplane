@@ -1,0 +1,16 @@
+project_id = "lozhgkcpjjgisovxmwcu"
+
+[functions.get-razorpay-key]
+verify_jwt = false
+
+[functions.create-razorpay-order]
+verify_jwt = false
+
+[functions.verify-razorpay-payment]
+verify_jwt = false
+
+[functions.ai-recommendations]
+verify_jwt = false
+
+[functions.ai-product-details]
+verify_jwt = false
