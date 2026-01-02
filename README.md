@@ -48,16 +48,8 @@ This project demonstrates proficiency in frontend architecture, state management
 ---
 
 ## 📸 Screenshots
+<img width="1889" height="858" alt="Screenshot 2026-01-03 001847" src="https://github.com/user-attachments/assets/d2f638d6-a6e7-4e3f-92ab-03e6993a9375" />
 
-| Home Page | Product Detail |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/400x200?text=Home+Page+Screenshot" alt="Home Page" width="100%"> | <img src="https://via.placeholder.com/400x200?text=Product+Page+Screenshot" alt="Product Detail" width="100%"> |
-
-| Cart & Checkout | Admin Dashboard |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/400x200?text=Cart+Screenshot" alt="Cart" width="100%"> | <img src="https://via.placeholder.com/400x200?text=Admin+Panel+Screenshot" alt="Admin" width="100%"> |
-
-*(Note: Replace these placeholder links with actual screenshots of your project)*
 
 ---
 
