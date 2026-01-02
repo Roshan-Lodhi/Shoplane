@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <rect x="5" y="10" width="35" height="35" rx="8" fill="#2563EB" />
+  <path d="M12 10V6C12 3.79086 13.7909 2 16 2H29C31.2091 2 33 3.79086 33 6V10" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M22.5 20C20 20 18 22 18 24.5C18 28 27 28 27 31.5C27 34 25 36 22.5 36C20 36 18 34 18 34" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <text x="50" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#1e293b">Shop</text>
+  <text x="120" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#2563EB">Lane</text>
+</svg>
